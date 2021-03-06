@@ -1,0 +1,13 @@
+{
+  "appId": "com.briskera.runnergamee",
+  "appName": "Runner Game",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "app",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
